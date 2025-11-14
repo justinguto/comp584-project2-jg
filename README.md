@@ -1,1 +1,0 @@
-# comp584-project2-jg
