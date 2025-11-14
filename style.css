@@ -1,0 +1,11 @@
+.row-5 .info-center { order: 1; }
+.row-5 .info-left   { order: 2; }
+.row-5 .info-right  { order: 3; }
+
+@media (min-width: 1024px) {
+  .row-5 .info-left,
+  .row-5 .info-center,
+  .row-5 .info-right {
+    order: 0;
+  }
+}
